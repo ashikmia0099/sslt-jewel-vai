@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "doctor_name": "Dr. Ayesha Rahman",
+    "current_post": "Consultant, Cardiology",
+    "current_medical_workplace": "Bangabandhu Sheikh Mujib Medical University",
+    "experience_years": 12,
+    "description": "Specialized in interventional cardiology with a focus on minimally invasive heart procedures and patient-centered care.",
+    "image": "https://i.ibb.co/qPxCDnr/man1.jpg"
+  },
+  {
+    "id": 2,
+    "doctor_name": "Dr. Mohammad Hossain",
+    "current_post": "Senior Consultant, Pediatrics",
+    "current_medical_workplace": "Dhaka Shishu Hospital",
+    "experience_years": 15,
+    "description": "Expert in child development and pediatric infectious diseases, with a passion for community health.",
+    "image": "https://i.ibb.co/HfM28Gc1/man2.jpg"
+  },
+  {
+    "id": 3,
+    "doctor_name": "Dr. Nusrat Jahan",
+    "current_post": "Assistant Professor, Neurology",
+    "current_medical_workplace": "National Institute of Neurosciences & Hospital",
+    "experience_years": 8,
+    "description": "Focused on treating neurological disorders like epilepsy, stroke, and multiple sclerosis through advanced neuroimaging.",
+    "image": "https://i.ibb.co/RG3WvKy0/man3.jpg"
+  },
+  {
+    "id": 4,
+    "doctor_name": "Dr. Tanvir Ahmed",
+    "current_post": "Resident Surgeon, Orthopedics",
+    "current_medical_workplace": "Dhaka Medical College Hospital",
+    "experience_years": 5,
+    "description": "Experienced in trauma care and orthopedic surgeries with a strong focus on patient rehabilitation.",
+    "image": "https://i.ibb.co/JWHHkpf0/vision2.jpg"
+  },
+  {
+    "id": 5,
+    "doctor_name": "Dr. Sumaiya Haque",
+    "current_post": "Consultant, Obstetrics & Gynecology",
+    "current_medical_workplace": "United Hospital Dhaka",
+    "experience_years": 10,
+    "description": "Highly skilled in maternal-fetal medicine, infertility treatment, and women's reproductive health.",
+    "image": "https://i.ibb.co/5gQQtGhW/vision3.jpg"
+  },
+  {
+    "id": 6,
+    "doctor_name": "Dr. Shahin Alam",
+    "current_post": "Consultant, Dermatology",
+    "current_medical_workplace": "Square Hospitals Ltd.",
+    "experience_years": 9,
+    "description": "Dermatologist with extensive knowledge in cosmetic dermatology, laser treatments, and skin cancer diagnosis.",
+    "image": "https://i.ibb.co/dwvYFhpj/person2.jpg"
+  },
+  {
+    "id": 7,
+    "doctor_name": "Dr. Mehnaz Kabir",
+    "current_post": "Consultant, Psychiatry",
+    "current_medical_workplace": "National Institute of Mental Health",
+    "experience_years": 11,
+    "description": "Works on improving mental wellness through psychotherapy and pharmacological treatment for depression, anxiety, and bipolar disorder.",
+    "image": "https://i.ibb.co/kVj3DVpC/person3.jpg"
+  },
+  {
+    "id": 8,
+    "doctor_name": "Dr. Mahmudul Hasan",
+    "current_post": "Consultant, Gastroenterology",
+    "current_medical_workplace": "Evercare Hospital Dhaka",
+    "experience_years": 13,
+    "description": "Specialist in liver and digestive system diseases with expertise in endoscopic procedures and liver transplantation.",
+    "image": "https://i.ibb.co/fVv5vqBq/itms3.jpg"
+  },
+  {
+    "id": 9,
+    "doctor_name": "Dr. Farhana Chowdhury",
+    "current_post": "Consultant, ENT",
+    "current_medical_workplace": "Ibn Sina Hospital",
+    "experience_years": 7,
+    "description": "Focused on treating disorders of the ear, nose, and throat, with expertise in both surgical and non-surgical care.",
+    "image": "https://i.ibb.co/CKHzw49q/medical-concept-indian-beautiful-female-600nw-1635029716.webp"
+  },
+  {
+    "id": 10,
+    "doctor_name": "Dr. Rezaul Karim",
+    "current_post": "Consultant, Nephrology",
+    "current_medical_workplace": "Kidney Foundation Hospital and Research Institute",
+    "experience_years": 14,
+    "description": "Renowned for managing chronic kidney diseases, dialysis, and transplant care with a patient-focused approach.",
+    "image": "https://i.ibb.co/5hKXP1jM/images.jpg"
+  }
+]

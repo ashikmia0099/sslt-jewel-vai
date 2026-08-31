@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Communication Disorders",
+    "description": "Professionals address a wide range of communication disorders including speech sound production (e.g., articulation, apraxia, dysarthria), resonance issues (hypernasality, hyponasality), voice, fluency (stuttering), and language (comprehension, expression, semantics, pragmatics, and syntax)."
+  },
+  {
+    "title": "Cognitive-Communication Disorders",
+    "description": "Therapy addresses attention, memory, problem-solving, and executive functioning difficulties, significantly impacting daily communication and requiring tailored interventions."
+  },
+  {
+    "title": "Swallowing and Feeding",
+    "description": "Professionals diagnose and treat swallowing disorders (dysphagia), offering interventions for the oral, pharyngeal, and esophageal stages to ensure safe eating and drinking."
+  },
+  {
+    "title": "Hearing Healthcare",
+    "description": "Services include assessment, diagnosis, and management of hearing disorders through evaluations, auditory rehabilitation, and the use of hearing aids and assistive devices."
+  },
+  {
+    "title": "Mental Health and Communication",
+    "description": "Professionals help individuals facing communication difficulties due to mental health conditions such as depression, anxiety, and schizophrenia, improving emotional expression and social interaction."
+  },
+  {
+    "title": "Augmentative and Alternative Communication (AAC)",
+    "description": "Support is provided for individuals with severe communication disorders through AAC tools like speech-generating devices and communication boards to aid in expression."
+  },
+  {
+    "title": "Language Development and Intervention for Children",
+    "description": "Early intervention services are offered for children with speech and language delays, supporting development and effective communication at home and school."
+  },
+  {
+    "title": "Voice and Speech Rehabilitation for Medical Conditions",
+    "description": "Rehabilitation services are provided for individuals recovering from stroke, cancer, TBI, or vocal cord surgeries to restore communication abilities."
+  },
+  {
+    "title": "Burn, Cleft Lip/Palate, and Craniofacial Anomalies",
+    "description": "Therapists support individuals with cleft lip/palate, burns, and craniofacial anomalies, improving articulation, swallowing, and addressing social-emotional needs."
+  },
+  {
+    "title": "Disfluency and Stuttering",
+    "description": "Therapy focuses on improving fluency and confidence in individuals with stuttering and other disfluency disorders using behavioral and cognitive techniques."
+  },
+  {
+    "title": "Multidisciplinary Collaboration",
+    "description": "Professionals collaborate with physiotherapists, occupational therapists, psychologists, and doctors to provide holistic treatment for complex or multiple disorders."
+  },
+  {
+    "title": "Screening and Early Detection",
+    "description": "Involves early screening of newborns, children, and adults to detect communication or hearing issues early, ensuring timely intervention."
+  },
+  {
+    "title": "Educational and Behavioral Support",
+    "description": "Therapists support educational settings through IEPs and behavioral interventions to assist students with communication and hearing impairments."
+  },
+  {
+    "title": "Prevention and Public Health Initiatives",
+    "description": "Includes advocacy for safe hearing practices, noise reduction, and public awareness campaigns to prevent speech, language, and hearing disorders."
+  },
+  {
+    "title": "Rehabilitation for Cochlear Implant Users",
+    "description": "Rehabilitation services include auditory training and speech therapy for individuals adapting to cochlear implants, supporting successful hearing outcomes."
+  },
+  {
+    "title": "Geriatric Communication and Swallowing Care",
+    "description": "Professionals help older adults manage age-related speech, language, cognition, and swallowing changes related to conditions like dementia and Parkinson’s."
+  }
+]
